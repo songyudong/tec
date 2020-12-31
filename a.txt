@@ -1,7 +1,0 @@
-﻿add from pt7
-add from pt6
-add from pt5
-add from pt4
-add from pt3
-add from pt2
-add from ptadd from master
