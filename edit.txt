@@ -4,4 +4,5 @@ temp 2
 add line 3
 add line 4
 do 1
+do 2
 add line 5
